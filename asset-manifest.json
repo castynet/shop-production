@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c434507d.chunk.css",
-    "main.js": "/static/js/main.323918e4.chunk.js",
-    "main.js.map": "/static/js/main.323918e4.chunk.js.map",
+    "main.css": "/static/css/main.a6db5b05.chunk.css",
+    "main.js": "/static/js/main.6c080ae5.chunk.js",
+    "main.js.map": "/static/js/main.6c080ae5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f2e4f4fd.js",
     "runtime-main.js.map": "/static/js/runtime-main.f2e4f4fd.js.map",
-    "static/js/2.553f0b6b.chunk.js": "/static/js/2.553f0b6b.chunk.js",
-    "static/js/2.553f0b6b.chunk.js.map": "/static/js/2.553f0b6b.chunk.js.map",
+    "static/js/2.e6bb3442.chunk.js": "/static/js/2.e6bb3442.chunk.js",
+    "static/js/2.e6bb3442.chunk.js.map": "/static/js/2.e6bb3442.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.84f851d95147c216c8e390bddc772832.js": "/precache-manifest.84f851d95147c216c8e390bddc772832.js",
+    "precache-manifest.75687f8ddf91ef6ec3a9a01f7f320d04.js": "/precache-manifest.75687f8ddf91ef6ec3a9a01f7f320d04.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c434507d.chunk.css.map": "/static/css/main.c434507d.chunk.css.map",
-    "static/js/2.553f0b6b.chunk.js.LICENSE.txt": "/static/js/2.553f0b6b.chunk.js.LICENSE.txt",
+    "static/css/main.a6db5b05.chunk.css.map": "/static/css/main.a6db5b05.chunk.css.map",
+    "static/js/2.e6bb3442.chunk.js.LICENSE.txt": "/static/js/2.e6bb3442.chunk.js.LICENSE.txt",
     "static/media/buyersScore.md": "/static/media/buyersScore.6dee6e6f.md",
     "static/media/ethics.md": "/static/media/ethics.e489f679.md",
     "static/media/index.css": "/static/media/genztechShopBackground.17c2a1b6.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f2e4f4fd.js",
-    "static/js/2.553f0b6b.chunk.js",
-    "static/css/main.c434507d.chunk.css",
-    "static/js/main.323918e4.chunk.js"
+    "static/js/2.e6bb3442.chunk.js",
+    "static/css/main.a6db5b05.chunk.css",
+    "static/js/main.6c080ae5.chunk.js"
   ]
 }
